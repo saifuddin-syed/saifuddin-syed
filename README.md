@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saifuddin Syed</h1>
 <h3 align="center">A passionate coding student from India</h3>
 
-- 🔭 I’m currently pursuing my bachelors in Engineering from **Mumbai University in Information Technology**
+- 🧑🏽‍🎓 I’m currently pursuing my bachelors in Engineering from **Mumbai University in Information Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
