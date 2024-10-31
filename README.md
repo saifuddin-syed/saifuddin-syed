@@ -7,7 +7,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://skillicons.dev">
+<a href="https://www.linkedin.com/in/saifuddin-syed-b86b4126a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
