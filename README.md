@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
+![image](https://github.com/user-attachments/assets/917983e5-6000-4503-900e-c0bd9988cfa5)![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Saifuddin Syed</h1>
 <h3 align="center">A passionate coding student from India</h3>
 
@@ -50,6 +50,12 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,mysql,git,py,qt,sqlite,html,css,js,mongodb,express,react" />
   </a>
 </p>
 
