@@ -1,8 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Saifuddin Syed</h1>
-<h3 align="center">An IT Enggineering student from India</h3>
+<h3 align="center">An IT Engineering student from India</h3>
 
-- 🏫 I’m currently pursuing my bachelors in I.T Engineering from Don Bosco Institute of Technology (University of Mumbai)
+- 🏫 I’m currently pursuing my bachelors in I.T Engineering from Don Bosco Institute of Technology (University of Mumbai).
 - 👾 Aspiring software developer, exploring the realms of code and design. Fueled by a curiosity for both backend logic and frontend user experiences.
 
 <h3 align="center">Connect with me:</h3>
